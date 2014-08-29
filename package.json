@@ -1,0 +1,21 @@
+{
+  "name": "es6",
+  "private": true,
+  "description": "ES6 support for our projects.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "FredyC <fredy.c@seznam.cz>",
+  "homepage": "https://github.com/BlackDice",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:BlackDice/es6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BlackDice/es6/issues"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "es6-symbol": "^0.1.0",
+    "es6-shim": "^0.16.0"
+  }
+}
